@@ -1,0 +1,45 @@
+body{
+    border: red dashed 4px;
+    padding: 2rem;/* 1rem = 15px */
+    border-radius: 3rem;
+}
+
+header{
+    border: solid rgb(0, 0, 0) 3px;
+    padding: 1rem;
+    border-radius: 3rem;
+}
+
+nav{
+    border: 3px purple solid;
+    border-radius: 3rem;
+}
+
+ul{ 
+    list-style: none;
+}
+
+li{
+    display: inline;
+    background: rgb(164, 125, 164);
+}
+
+nav a{
+    text-decoration: none;
+}
+
+main{
+    border: dotted 5px rgb(0, 0, 0);
+    padding: 1rem;
+    margin: 1rem;
+    border-radius: 3rem;
+}
+
+footer{
+    background: rgb(155, 179, 116);
+    color: rgb(0, 0, 0);
+    border: 2px rgb(7, 1, 62) solid;
+    border-radius: 3rem;
+}
+
+p{text-align: justify;}
