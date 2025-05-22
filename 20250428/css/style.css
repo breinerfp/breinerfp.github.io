@@ -1,0 +1,14 @@
+body {background-color: rgb(134, 131, 165);}
+
+ header { border: 4px dashed; color: rgb(163, 162, 93);
+background:rgb(212, 150, 150);
+}
+ main {border: 3px solid;color: rgb(189, 182, 41);
+background: rgb(127, 138, 127);
+}
+ footer{border: 4px dotted;color: rgb(154, 163, 28);
+background: rgb(188, 139, 139);
+}
+
+ h1{color: rgba(45, 40, 6, 0.78);}
+ p{color: rgb(40, 142, 115);}
